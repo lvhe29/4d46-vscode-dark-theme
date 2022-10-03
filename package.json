@@ -1,0 +1,21 @@
+{
+  "name": "4d46-dark-theme-01",
+  "displayName": "4d46 dark theme 01",
+  "description": "一个简单的深色主题",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "4d46 d01",
+        "uiTheme": "vs-dark",
+        "path": "./themes/4d46-d01-color-theme.json"
+      }
+    ]
+  }
+}
