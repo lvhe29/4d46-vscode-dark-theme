@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "4d46-dark-theme-01" extension will be documented in this file.
+## 0.0.4 (2023.3.31)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- 改用 lch 色彩空间，重新调整配色
 
-## [Unreleased]
+## 0.0.3 (2023.3.30)
 
 - Initial release

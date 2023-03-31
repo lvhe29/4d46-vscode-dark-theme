@@ -1,0 +1,43 @@
+<!-- 这是一段 HTML 代码 -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <style>
+    html, body {
+      height: 100%;
+    }
+    #home {
+      padding: 20px;
+    }
+    .card {
+      background-color: #252526;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="home">
+      <p>This is the home section of my website.</p>
+    </section>
+    <section id="contact" class="card">
+      <p>This is the contact section of my website.</p>
+    </section>
+  </main>
+  <script>
+    for (let i = 0; i < document.querySelectorAll('li').length; i++) {
+      document.querySelectorAll('li')[i].style.color = 'blue';
+    }
+  </script>
+</body>
+</html>
+
+
+
+
