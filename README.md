@@ -13,4 +13,4 @@ Rust
 ![](images/example-code-rust-0.0.4.png)
 
 Haskell
-![](images/example-code-haskell-0.0.4.png))
+![](images/example-code-haskell-0.0.4.png)
