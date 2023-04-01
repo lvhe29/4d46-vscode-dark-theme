@@ -80,11 +80,14 @@
         "storage.type",
         "storage.modifier",
         "keyword",
+        "meta.function.definition",
+        "meta.function-call keyword.operator.expression",
+        "meta.import keyword.control",
         "keyword.control.import",
         "keyword.control.export",
         "keyword.control.from",
         "keyword.control.as",
-        "meta.function.definition"
+        "keyword.control.directive"
       ],
       "settings": {
         "foreground": "#868686",
@@ -98,12 +101,7 @@
         "keyword.operator",
         "keyword.other.unit",
         "storage.type.function.arrow",
-        "punctuation.definition",
-        "punctuation.separator",
-        "punctuation.terminator",
-        "punctuation.accessor",
-        "punctuation.section",
-        "punctuation.section.embedded",
+        "punctuation",
         "meta.brace",
         "meta.separator.markdown"
       ],
@@ -141,7 +139,7 @@
         "storage.type.haskell"
       ],
       "settings": {
-        "foreground": "#458084",
+        "foreground": "#478387",
         "background": "#0b0b0b",
         "fontStyle": "italic"
       }
@@ -151,7 +149,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#25a8cf",
+        "foreground": "#2baad2",
         "background": "#0b0b0b"
       }
     },
@@ -170,7 +168,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#59a4c9",
+        "foreground": "#5ca6cc",
         "background": "#0b0b0b"
       }
     },
@@ -180,7 +178,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#59a4c9",
+        "foreground": "#5ca6cc",
         "background": "#0b0b0b",
         "fontStyle": "underline"
       }
@@ -192,7 +190,7 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#9b9b9b",
+        "foreground": "#9e9e9e",
         "background": "#0b0b0b",
         "fontStyle": "italic"
       }
@@ -222,7 +220,7 @@
         "markup.heading"
       ],
       "settings": {
-        "foreground": "#a16957",
+        "foreground": "#9e6755",
         "background": "#0b0b0b",
         "fontStyle": "bold"
       }
@@ -232,17 +230,9 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#846665",
+        "foreground": "#917271",
         "background": "#0b0b0b",
         "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": [],
-      "settings": {
-        "foreground": "#ff7777",
-        "background": "#aaaaaa",
-        "fontStyle": "bold"
       }
     }
   ]
