@@ -1,7 +1,5 @@
 // @ts-nocheck
 
-
-
 // 这是一段 TypeScript 代码
 import { User } from './models/user';
 

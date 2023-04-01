@@ -1,16 +1,21 @@
 一个简单的深色主题
 
-Typescript
+## Typescript
+v0.0.4
 ![](images/example-code-ts-0.0.4.png)
 
-Python
+## Python
+v0.0.4
 ![](images/example-code-python-0.0.4.png)
 
-HTML
+## HTML
+v0.0.4
 ![](images/example-code-html-0.0.4.png)
 
-Rust
+## Rust
+v0.0.4
 ![](images/example-code-rust-0.0.4.png)
 
-Haskell
+## Haskell
+v0.0.4
 ![](images/example-code-haskell-0.0.4.png)
